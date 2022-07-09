@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657332361 source:c:\users\guilh\desktop\menu\git\exercicio da faculdade\verificador de nota\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

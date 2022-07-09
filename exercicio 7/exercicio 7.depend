@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647571852 source:c:\users\guilh\desktop\menu\exercicios da aula\exercicio 9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

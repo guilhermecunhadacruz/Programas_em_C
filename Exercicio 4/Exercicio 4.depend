@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1647552488 source:c:\users\guilh\desktop\menu\exercicios da aula\exercicio 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1657336410 source:c:\users\guilh\desktop\menu\git\exercicio da faculdade\exercicio 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

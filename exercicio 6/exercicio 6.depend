@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647570253 source:c:\users\guilh\desktop\menu\git\exercicio da faculdade\exercicio 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
